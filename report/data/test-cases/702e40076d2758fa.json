@@ -1,0 +1,73 @@
+{
+  "uid" : "702e40076d2758fa",
+  "name" : "test_tianqi[3]",
+  "fullName" : "api_testcase.test_tianqi_login.TestTianqi#test_tianqi",
+  "historyId" : "7dff3518eb361bbcc1ae2cea498648e8",
+  "time" : {
+    "start" : 1653116430327,
+    "stop" : 1653116430435,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "384f6b50e80c5dad",
+      "name" : "log",
+      "source" : "384f6b50e80c5dad.txt",
+      "type" : "text/plain",
+      "size" : 8192
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "api_testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_tianqi_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTianqi"
+  }, {
+    "name" : "host",
+    "value" : "wang"
+  }, {
+    "name" : "thread",
+    "value" : "39636-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "api_testcase.test_tianqi_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "i",
+    "value" : "3"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "702e40076d2758fa.json",
+  "parameterValues" : [ "3" ]
+}

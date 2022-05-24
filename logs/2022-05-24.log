@@ -1,0 +1,98 @@
+2022-05-24 10:47:13,979 - uitesting - INFO : 开始测试第0条用例
+2022-05-24 10:47:13,983 - uitesting - INFO : 开始测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:47:14,090 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '北京', 'city': '北京市', 'adcode': '110000', 'weather': '多云', 'temperature': '28', 'winddirection': '南', 'windpower': '4', 'humidity': '42', 'reporttime': '2022-05-24 10:34:00'}]}
+2022-05-24 10:47:14,107 - uitesting - ERROR : 断言出现错误,结束测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:47:14,116 - uitesting - INFO : 结束测试第0条用例
+2022-05-24 10:47:14,126 - uitesting - INFO : 开始测试第0条用例
+2022-05-24 10:47:14,127 - uitesting - INFO : 开始测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:47:14,236 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '天津', 'city': '天津市', 'adcode': '120000', 'weather': '阴', 'temperature': '28', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '38', 'reporttime': '2022-05-24 10:33:33'}]}
+2022-05-24 10:47:14,237 - uitesting - INFO : 结束测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:47:14,240 - uitesting - INFO : 结束测试第0条用例
+2022-05-24 10:47:14,249 - uitesting - INFO : 开始测试第0条用例
+2022-05-24 10:47:14,250 - uitesting - INFO : 开始测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:47:14,350 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '河北', 'city': '河北省', 'adcode': '130000', 'weather': '晴', 'temperature': '27', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '48', 'reporttime': '2022-05-24 10:33:05'}]}
+2022-05-24 10:47:14,350 - uitesting - INFO : 结束测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:47:14,354 - uitesting - INFO : 结束测试第0条用例
+2022-05-24 10:47:14,363 - uitesting - INFO : 开始测试第0条用例
+2022-05-24 10:47:14,364 - uitesting - INFO : 开始测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:47:14,469 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '台湾', 'city': '台湾省', 'adcode': '710000'}]}
+2022-05-24 10:47:14,469 - uitesting - INFO : 结束测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:47:14,473 - uitesting - INFO : 结束测试第0条用例
+2022-05-24 10:47:46,017 - uitesting - INFO : 开始测试第0条用例
+2022-05-24 10:47:46,020 - uitesting - INFO : 开始测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:47:46,116 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '北京', 'city': '北京市', 'adcode': '110000', 'weather': '多云', 'temperature': '28', 'winddirection': '南', 'windpower': '4', 'humidity': '42', 'reporttime': '2022-05-24 10:34:00'}]}
+2022-05-24 10:47:46,118 - uitesting - ERROR : 断言出现错误,结束测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:47:46,121 - uitesting - INFO : 结束测试第0条用例
+2022-05-24 10:47:46,146 - uitesting - INFO : 开始测试第0条用例
+2022-05-24 10:47:46,147 - uitesting - INFO : 开始测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:47:46,246 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '天津', 'city': '天津市', 'adcode': '120000', 'weather': '阴', 'temperature': '28', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '38', 'reporttime': '2022-05-24 10:33:33'}]}
+2022-05-24 10:47:46,246 - uitesting - INFO : 结束测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:47:46,250 - uitesting - INFO : 结束测试第0条用例
+2022-05-24 10:47:46,256 - uitesting - INFO : 开始测试第0条用例
+2022-05-24 10:47:46,257 - uitesting - INFO : 开始测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:47:46,363 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '河北', 'city': '河北省', 'adcode': '130000', 'weather': '晴', 'temperature': '27', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '48', 'reporttime': '2022-05-24 10:33:05'}]}
+2022-05-24 10:47:46,364 - uitesting - INFO : 结束测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:47:46,367 - uitesting - INFO : 结束测试第0条用例
+2022-05-24 10:47:46,374 - uitesting - INFO : 开始测试第0条用例
+2022-05-24 10:47:46,376 - uitesting - INFO : 开始测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:47:46,465 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '台湾', 'city': '台湾省', 'adcode': '710000'}]}
+2022-05-24 10:47:46,466 - uitesting - INFO : 结束测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:47:46,469 - uitesting - INFO : 结束测试第0条用例
+2022-05-24 10:52:17,154 - uitesting - INFO : 开始测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:52:17,235 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '北京', 'city': '北京市', 'adcode': '110000', 'weather': '多云', 'temperature': '28', 'winddirection': '南', 'windpower': '4', 'humidity': '42', 'reporttime': '2022-05-24 10:34:00'}]}
+2022-05-24 10:52:17,238 - uitesting - ERROR : 断言出现错误,结束测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:52:17,249 - uitesting - INFO : 开始测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:52:17,342 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '天津', 'city': '天津市', 'adcode': '120000', 'weather': '阴', 'temperature': '28', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '38', 'reporttime': '2022-05-24 10:33:33'}]}
+2022-05-24 10:52:17,343 - uitesting - INFO : 结束测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:52:17,366 - uitesting - INFO : 开始测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:52:17,459 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '河北', 'city': '河北省', 'adcode': '130000', 'weather': '晴', 'temperature': '27', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '48', 'reporttime': '2022-05-24 10:33:05'}]}
+2022-05-24 10:52:17,460 - uitesting - INFO : 结束测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:52:17,468 - uitesting - INFO : 开始测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:52:17,567 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '台湾', 'city': '台湾省', 'adcode': '710000'}]}
+2022-05-24 10:52:17,568 - uitesting - INFO : 结束测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:53:12,206 - uitesting - INFO : 开始测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:53:12,206 - uitesting - INFO : 开始测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:53:12,206 - uitesting - INFO : 开始测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:53:12,207 - uitesting - INFO : 开始测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:53:12,285 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '河北', 'city': '河北省', 'adcode': '130000', 'weather': '晴', 'temperature': '27', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '48', 'reporttime': '2022-05-24 10:33:05'}]}
+2022-05-24 10:53:12,286 - uitesting - INFO : 结束测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:53:12,299 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '台湾', 'city': '台湾省', 'adcode': '710000'}]}
+2022-05-24 10:53:12,300 - uitesting - INFO : 结束测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:53:12,303 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '天津', 'city': '天津市', 'adcode': '120000', 'weather': '阴', 'temperature': '28', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '38', 'reporttime': '2022-05-24 10:33:33'}]}
+2022-05-24 10:53:12,303 - uitesting - INFO : 结束测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:53:12,304 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '北京', 'city': '北京市', 'adcode': '110000', 'weather': '多云', 'temperature': '28', 'winddirection': '南', 'windpower': '4', 'humidity': '42', 'reporttime': '2022-05-24 10:34:00'}]}
+2022-05-24 10:53:12,344 - uitesting - ERROR : 断言出现错误,结束测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:54:55,238 - uitesting - INFO : 开始测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:54:55,238 - uitesting - INFO : 开始测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:54:55,239 - uitesting - INFO : 开始测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:54:55,243 - uitesting - INFO : 开始测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:54:55,338 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '天津', 'city': '天津市', 'adcode': '120000', 'weather': '阴', 'temperature': '28', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '38', 'reporttime': '2022-05-24 10:33:33'}]}
+2022-05-24 10:54:55,339 - uitesting - INFO : 结束测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:54:55,341 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '河北', 'city': '河北省', 'adcode': '130000', 'weather': '晴', 'temperature': '27', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '48', 'reporttime': '2022-05-24 10:33:05'}]}
+2022-05-24 10:54:55,342 - uitesting - INFO : 结束测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:54:55,353 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '台湾', 'city': '台湾省', 'adcode': '710000'}]}
+2022-05-24 10:54:55,354 - uitesting - INFO : 结束测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:57:51,054 - uitesting - INFO : 开始测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:57:51,054 - uitesting - INFO : 开始测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:57:51,056 - uitesting - INFO : 开始测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:57:51,054 - uitesting - INFO : 开始测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:57:51,148 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '台湾', 'city': '台湾省', 'adcode': '710000'}]}
+2022-05-24 10:57:51,149 - uitesting - INFO : 结束测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 10:57:51,151 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '天津', 'city': '天津市', 'adcode': '120000', 'weather': '阴', 'temperature': '28', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '38', 'reporttime': '2022-05-24 10:33:33'}]}
+2022-05-24 10:57:51,152 - uitesting - INFO : 结束测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 10:57:51,160 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '河北', 'city': '河北省', 'adcode': '130000', 'weather': '晴', 'temperature': '27', 'winddirection': '西南', 'windpower': '≤3', 'humidity': '48', 'reporttime': '2022-05-24 10:33:05'}]}
+2022-05-24 10:57:51,161 - uitesting - INFO : 结束测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 10:58:01,253 - uitesting - INFO : 开始测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 10:58:11,280 - uitesting - INFO : 开始测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 14:49:20,889 - uitesting - INFO : 开始测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 14:49:20,889 - uitesting - INFO : 开始测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 14:49:20,890 - uitesting - INFO : 开始测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 14:49:20,890 - uitesting - INFO : 开始测试:天气接口  测试用例:1、北京市天气信息
+2022-05-24 14:49:20,985 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '天津', 'city': '天津市', 'adcode': '120000', 'weather': '阴', 'temperature': '32', 'winddirection': '东南', 'windpower': '≤3', 'humidity': '30', 'reporttime': '2022-05-24 14:33:26'}]}
+2022-05-24 14:49:20,985 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '台湾', 'city': '台湾省', 'adcode': '710000'}]}
+2022-05-24 14:49:20,986 - uitesting - INFO : 结束测试:天气接口  测试用例:4、台湾省天气信息
+2022-05-24 14:49:20,986 - uitesting - INFO : 结束测试:天气接口  测试用例:2、天津市天气信息
+2022-05-24 14:49:20,986 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '河北', 'city': '河北省', 'adcode': '130000', 'weather': '晴', 'temperature': '32', 'winddirection': '东南', 'windpower': '4', 'humidity': '39', 'reporttime': '2022-05-24 14:32:58'}]}
+2022-05-24 14:49:20,987 - uitesting - INFO : 结束测试:天气接口  测试用例:3、河北省市天气信息
+2022-05-24 14:49:20,994 - uitesting - INFO : 获得返回体信息:{'status': '1', 'count': '1', 'info': 'OK', 'infocode': '10000', 'lives': [{'province': '北京', 'city': '北京市', 'adcode': '110000', 'weather': '多云', 'temperature': '31', 'winddirection': '西南', 'windpower': '4', 'humidity': '38', 'reporttime': '2022-05-24 14:33:51'}]}
+2022-05-24 14:49:20,997 - uitesting - ERROR : 断言出现错误,结束测试:天气接口  测试用例:1、北京市天气信息

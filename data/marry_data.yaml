@@ -1,0 +1,51 @@
+Tianqi:
+  api_name: 天气接口
+  method: GET
+  url: /v3/weather/weatherInfo
+  headers:
+  testcase:
+
+  - name: 1、北京市天气信息
+    data:
+      key: 289de14240ca4296c6abb310a9d87010
+      city: 110000
+      extensions: base
+      output: JSON
+
+    validate:
+      - 北京市
+      - '11000'
+
+  - name: 2、天津市天气信息
+    data:
+      key: 289de14240ca4296c6abb310a9d87010
+      city: 120000
+      extensions: base
+      output: JSON
+
+    validate:
+      - 天津市
+      - '10000'
+
+  - name: 3、河北省市天气信息
+    data:
+      key: 289de14240ca4296c6abb310a9d87010
+      city: 130000
+      extensions: base
+      output: JSON
+
+    validate:
+      - 河北省
+      - '10000'
+
+  - name: 4、台湾省天气信息
+    data:
+      key: 289de14240ca4296c6abb310a9d87010
+      city: 710000
+      extensions: base
+      output: JSON
+
+    validate:
+      - 台湾省
+      - '10000'
+
